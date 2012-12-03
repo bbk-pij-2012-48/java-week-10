@@ -1,0 +1,11 @@
+public class Library {
+	
+	public String getName() {
+		return "Library Name";
+	}
+	
+	public int getID(User currentUser) {
+		return 13;
+	}
+}
+	
